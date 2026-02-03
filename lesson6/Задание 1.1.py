@@ -23,3 +23,4 @@ try:
     print("Data loaded with AJAX get request.")
 finally:
     driver.quit()
+    
